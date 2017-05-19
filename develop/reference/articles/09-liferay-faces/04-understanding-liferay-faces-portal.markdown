@@ -26,9 +26,9 @@ it accomplishes in your JSF application.
 
 ## Related Topics [](id=related-topics)
 
-[Packaging a JSF Application](/develop/tutorials/-/knowledge_base/7-0/packaging-a-jsf-application)
+[Getting Started with JSF Applications](/develop/tutorials/-/knowledge_base/7-0/getting-started-with-jsf-applications)
 
 [Customizing Liferay Search](/develop/tutorials/-/knowledge_base/7-0/customizing-liferay-search)
 
-[Understanding Liferay Faces Alloy](/develop/tutorials/-/knowledge_base/7-0/understanding-liferay-faces-alloy)
+[Understanding Liferay Faces Alloy](/develop/reference/-/knowledge_base/7-0/understanding-liferay-faces-alloy)
 
